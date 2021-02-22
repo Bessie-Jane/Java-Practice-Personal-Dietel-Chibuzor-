@@ -15,7 +15,7 @@ public int getAccountBalance(){
 
 public void withdrawMoney(int amountToWithdraw, int pin){
 	if(pin == 1111){
-	currewnttBalance = currentbalance - amountToWithdraw;
+	currenttBalance = currentbalance - amountToWithdraw;
 	}
 
 	if(pin != 1111){
